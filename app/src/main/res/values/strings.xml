@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">List app</string>
+    <string-array name="opciones_tipo">
+        <item>casa</item>
+        <item>trabajo</item>
+        <item>negocios</item>
+    </string-array>
+</resources>
